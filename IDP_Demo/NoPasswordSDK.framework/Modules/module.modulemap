@@ -1,0 +1,6 @@
+framework module NoPasswordSDK {
+  umbrella header "NoPasswordSDK.h"
+
+  export *
+  module * { export * }
+}
