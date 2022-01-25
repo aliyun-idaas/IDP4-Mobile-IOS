@@ -567,11 +567,10 @@ IDASS 移动端SDK为用户提供一套接入IDaaS能力，让开发者快速集
 
 ### 16. 手势认证
 
-
-
-
-
-
-
+```objective-c
+ GestureUnlockViewController *gesture = [[UIStoryboard storyboardWithName:@"Main" bundle:nil] instantiateViewControllerWithIdentifier:@"GestureUnlock"];
+    gesture.modalPresentationStyle = UIModalPresentationFullScreen;
+    [self.navigationController pushViewController:gesture animated:YES];
+```
 ~~~
 
