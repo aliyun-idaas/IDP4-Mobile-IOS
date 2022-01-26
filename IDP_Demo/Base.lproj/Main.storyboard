@@ -343,8 +343,6 @@
                                     <constraint firstItem="hXX-gF-Y3P" firstAttribute="centerX" secondItem="BND-cn-ZSb" secondAttribute="centerX" id="xoV-vd-8Xp"/>
                                     <constraint firstItem="bWF-jY-r5t" firstAttribute="top" secondItem="7ED-Lr-8YF" secondAttribute="bottom" constant="10" id="z4b-HL-qc2"/>
                                 </constraints>
-                                <viewLayoutGuide key="contentLayoutGuide" id="ehL-Hk-nXx"/>
-                                <viewLayoutGuide key="frameLayoutGuide" id="4NE-eC-OKf"/>
                             </scrollView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
